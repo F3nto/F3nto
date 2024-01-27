@@ -1,4 +1,3 @@
-# Read-Fento
 <h3 align="center">A passionate front-end developer from Myanmar</h3>
 <img align="right" alt="Coding" width="400" src = "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f3nto&label=Profile%20views&color=0e75b6&style=flat" alt="f3nto" /> </p>
